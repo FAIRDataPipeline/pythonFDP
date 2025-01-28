@@ -45,7 +45,7 @@ pytest-mock = "*"
 pytest-dependency = "*"
 pytest-cov = "*"
 pre-commit = "^4.0.1"
-isort = "^5.10.1"
+isort = "^6.0.0"
 Sphinx = "*"
 sphinx-rtd-theme = "*"
 
